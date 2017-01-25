@@ -10,7 +10,7 @@ public class orders {
       String name;
       double price;
       int quantity;
-     
+     String[] orders= new String [100];
      for(String new filename; args){throws Exception
      new(readfile(filename);
      }
@@ -21,7 +21,7 @@ public class orders {
       String: filename= pullfilename (new filename)
       Scanner input= new scanner(file);
       
-       
+            
      }
          
     }
